@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @adnanabro
-- 👀 I’m interested in Data Science
+- 👀 I’m interested in Data Analytics
 - 🌱 I’m currently learning Python and R for Data Science.
 - 💞️ I’m looking to collaborate on Beginner Projects for Data science
 - 📫 How to reach me --> adnanahmedabro@gmail.com
